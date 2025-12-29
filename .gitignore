@@ -1,0 +1,18 @@
+# API Secrets
+MoviebyEmotion/Secrets.swift
+
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+
+# API Secrets
+MoviebyEmotion/Secrets.swift
+
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+
+# macOS
+.DS_Store
