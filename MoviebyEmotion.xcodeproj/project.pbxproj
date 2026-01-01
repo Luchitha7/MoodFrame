@@ -29,9 +29,22 @@
 		94B3EA5E2F0174AA00DCB6B8 /* MoviebyEmotionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MoviebyEmotionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		94CE189C2F06E0F0009794D0 /* Exceptions for "MoviebyEmotion" folder in "MoviebyEmotion" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Secrets.example.swift,
+			);
+			target = 94B3EA462F0174A900DCB6B8 /* MoviebyEmotion */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		94B3EA492F0174A900DCB6B8 /* MoviebyEmotion */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				94CE189C2F06E0F0009794D0 /* Exceptions for "MoviebyEmotion" folder in "MoviebyEmotion" target */,
+			);
 			path = MoviebyEmotion;
 			sourceTree = "<group>";
 		};
